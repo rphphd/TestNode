@@ -55,12 +55,7 @@ The application must expose restful endpoints that will parse data (passed in th
 
 # Run the test
 
-Download the code from GitHub (you can clone it into your own local directory).  Then in the directory you clone into, run `npm install`.
-
-
-
-
-
+Download the code from GitHub (you can clone it into your own local directory).  Then in the directory you clone into, run `npm install`.  Then in one terminal window run `npm run dev`.  In another window you can execute either of the two curl commands to get the result of the test code for this execise.  It should match the `Expected Results` above.
 
 ## For v1
 ```
