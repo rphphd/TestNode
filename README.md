@@ -55,7 +55,7 @@ The application must expose restful endpoints that will parse data (passed in th
 
 # Run the test
 
-Download the code from GitHub
+Download the code from GitHub (you can clone it into your own local directory).  Then in the directory you clone into, run `npm install`.
 
 
 
